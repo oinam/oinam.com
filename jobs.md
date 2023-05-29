@@ -17,3 +17,4 @@ Apply: Email `jobs@oinam.com`
 ## Others
 
 - [Python, FullStack Developer](/jobs/2022-10-13-developer-python-frontend-remote/)  (open, active) posted on Oct 13, 2022.
+- [Virtual Assistant](/jobs/2023-05-16-atomicbullfrog-assistant/) (open, active) posted on Jun 1, 2023.
