@@ -1,12 +1,17 @@
 # Oinam Liaison (India)
 
+Status: `Open`\
+Apply: [Email](mailto:jobs@oinam.com?subject=Oinam Liasion) a cover letter with your experience and details.
+
+---
+
 - How
 	+ Remote / Work from Anywhere
-	+ ₹6,00,000 per year Net Salary.
+	+ Starts at ₹5,00,000 per year Net Salary.
 - Roles
 	+ Research - find out details.
 	+ Keep communication in sync.
-	+ Make sure taxes and compliances are in order.
+	+ Make sure taxes and compliances are in order. Work with accountants, lawyers, etc.
 	+ Work with other service providers to make sure things are on time and working seamlessly.
 	+ Bills are paid on time.
 	+ Look for opportunities that aligns with the family philosophy and initiatives.
