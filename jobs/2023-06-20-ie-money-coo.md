@@ -1,5 +1,7 @@
 # Chief Operating Officer
 
+Status: `Closed`
+
 A not-for-profit company in sustainability and circular economy is looking for a COO (Chief Operating Officer) in India.
 
 - How
