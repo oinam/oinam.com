@@ -1,6 +1,10 @@
 # Python + Frontend
 
-Date: Oct 13, 2022
+Status: `Closed`\
+Type: `Full-Time`\
+Date Posted: Oct 13, 2022
+
+---
 
 A developer with knowledge of Object-oriented programming, separation of concerns, code readability, and a solid knowledge of data structures are preferred and most important requirements.
 

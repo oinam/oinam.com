@@ -1,5 +1,11 @@
 # Virtual Assistant
 
+Status: `Closed`\
+Type: `Full-Time`\
+Date Posted: May 16, 2022
+
+---
+
 - How
 	+ Part-Time Remote / Work from Anywhere.
 	+ Starting salary $500 per month (as of 2023-May).
