@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Color Palette of the Oinam Family.">
+<title>Oinam Color Palette</title>
+
+<style>
+  html {
+    background: #fff;
+  }
+  body {
+    margin: auto;
+    width: 100%;
+    
+    font-family: system-ui, -apple-system, 'Segoe UI', 'Roboto', Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 1.6;
+
+    color: #0a0a0a;
+  }
+  a {
+    color: #a3a3a3;
+    text-decoration: none;
+    border-bottom: 1px solid #a3a3a3;
+    padding-bottom: 0.16rem;
+  }
+
+  section {
+    display: flex;
+  }
+  article {
+    flex-grow: 5;
+    flex-basis: 20%;
+    padding: 1rem 1.6rem;
+  }
+  article h2 {
+    margin: 0;
+    padding: 0 0 7rem;
+    font-weight: 100;
+  }
+  article p {
+    display: block;
+    margin: 0;
+    padding: 0;
+    font-family: Menlo, Consolas, Monaco, 'Liberation Mono', 'Lucida Console', monospace;
+  }
+  footer {
+    padding: 0 1rem;
+    font-size: smaller;
+  }
+
+  .pallette-gray {
+    flex-grow: 10;
+    flex-basis: 10%;
+  }
+  .pallette-gray article {
+    text-transform: lowercase;
+    font-size: 0.7rem;
+  }
+  .gray-neutral {}
+</style>
+
+</head>
+
+<body>
+
+  <section class="pallette-primary" style="color: #f3f4f6;">
+    <article style="background-color: #0a0a0a">
+      <h2>Midnight</h2>
+      <p>#0a0a0a <br> rgb(10,10,10)</p>
+    </article>
+    <article style="background-color: #0f2021">
+      <h2>Primary</h2>
+      <p>#0f2021 <br> rgb(15,32,33)</p>
+    </article>
+    <article style="background-color: #0f3538">
+      <h2>Secondary</h2>
+      <p>#0f3538 <br> rgb(15,53,56)</p>
+    </article>
+    <article style="background-color: #6366f1">
+      <h2>Tertiary</h2>
+      <p>#6366f1 <br> rgb(99,102,241)</p>
+    </article>
+    <article style="background-color: #7c3aed">
+      <h2>Quaternary</h2>
+      <p>#7c3aed <br> rgb(124,58,237)</p>
+    </article>
+  </section>
+
+  <section class="pallette-accent" style="color: #374151;">
+    <article style="background-color: #ff6600">
+      <h2>Primary Accent</h2>
+      <p>#ff6600 <br> rgb(255,102,0)</p>
+    </article>
+    <article style="background-color: #ff9200">
+      <h2>Secondary Accent</h2>
+      <p>#ff9200 <br> rgb(255,146,0)</p>
+    </article>
+    <article style="background-color: #ffbe00">
+      <h2>Shine</h2>
+      <p>#ffbe00 <br> rgb(255,190,0)</p>
+    </article>
+    <article style="background-color: #f8e08e">
+      <h2>Gleam</h2>
+      <p>#f8e08e <br> rgb(248,224,142)</p>
+    </article>
+    <article style="background-color: #fafaf0">
+      <h2>Bright</h2>
+      <p>#fafaf0 <br> rgb(250,250,240)</p>
+    </article>
+  </section>
+
+  <section class="pallette-gray gray-neutral" style="color: #374151;">
+    <article style="color: #e5e5e5; background-color: #171717"><h2>Gray-900</h2><p>#171717</p></article>
+    <article style="color: #e5e5e5; background-color: #262626"><h2>Gray-800</h2><p>#262626</p></article>
+    <article style="color: #e5e5e5; background-color: #404040"><h2>Gray-700</h2><p>#404040</p></article>
+    <article style="color: #e5e5e5; background-color: #525252"><h2>Gray-600</h2><p>#525252</p></article>
+    <article style="color: #e5e5e5; background-color: #737373"><h2>Gray-500</h2><p>#737373</p></article>
+
+    <article style="background-color: #a3a3a3"><h2>Gray-400</h2><p>#a3a3a3</p></article>
+    <article style="background-color: #d4d4d4"><h2>Gray-300</h2><p>#d4d4d4</p></article>
+    <article style="background-color: #e5e5e5"><h2>Gray-200</h2><p>#e5e5e5</p></article>
+    <article style="background-color: #f5f5f5"><h2>Gray-100</h2><p>#f5f5f5</p></article>
+    <article style="background-color: #fafafa"><h2>Gray-50 </h2><p>#fafafa</p></article>
+  </section>
+
+  <footer>
+    <p>
+      TailwindCSS has the <a href="https://tailwindcss.com/docs/customizing-colors">best color-grays</a>, use them.
+    </p>
+  </footer>
+
+</body>
+</html>

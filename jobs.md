@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Jobs
-permalink: /jobs/
 ---
 
 These jobs are not necessarily all at Oinam or its related entities. Many of the jobs are for friends and their companies. We have decided to have it here for the ones we can help.

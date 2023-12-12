@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 Under Construction!
+
+I would add those GIFs with workers digging up stuff.

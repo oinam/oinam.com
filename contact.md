@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
 ---
 
 [Email](mailto:hi@oinam.com) is always the first and best communication medium, and we are happy to get yours. We love thoughtful emails and would reply. Please tell us who you are and clarify your message, and if you have a specific ask, an offer, an actionable item, or an exciting story.
