@@ -9,6 +9,7 @@ Apply: Email `jobs@oinam.com`
 
 ## Oinam
 
+- [Assistant](/jobs/2024-04-01-assistant/) (open, part-time) posted on Apr 1, 2024.
 - [Family Liaison](/jobs/2023-07-07-oinam-liaison/) (open, full-time) posted on Jul 7, 2023.
 - [Webmaster](/jobs/2023-07-07-webmaster/) (open, part-time) posted on Jul 7, 2023.
 

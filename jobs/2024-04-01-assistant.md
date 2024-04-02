@@ -1,21 +1,18 @@
-# Oinam Liaison (India)
+# Assistant
 
 Status: `Open`\
-Type: `Full-Time`\
-Apply: [Email](mailto:jobs@oinam.com?subject=Oinam Liasion) a cover letter with your experience and details.
+Type: `Part-Time`\
+Apply: [Email](mailto:jobs@oinam.com?subject=Assistant) a cover letter with your experience and details.
 
 ---
 
 - How
-	+ Remote. Work from Anywhere.
-	+ Starts at ₹5,00,000 per year Net Salary.
+	+ Remote. Work from Anywhere in India.
+	+ Starts at ₹3,00,000 per year Net Salary.
 - Roles
 	+ Research - find out details.
 	+ Keep communication in sync.
-	+ Make sure taxes and compliances are in order. Work with accountants, lawyers, etc.
 	+ Work with other service providers to make sure things are on time and working seamlessly.
-	+ Bills are paid on time.
-	+ Look for opportunities that aligns with the family philosophy and initiatives.
 - Criteria
 	+ Smart, resourceful, and willing to learn.
 	+ Believes that it is always `figureoutable` and can Get Things Done.
