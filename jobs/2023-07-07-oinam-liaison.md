@@ -18,6 +18,7 @@ Apply: [Email](mailto:jobs@oinam.com?subject=Oinam Liasion) a cover letter with 
 	+ Look for opportunities that aligns with the family philosophy and initiatives.
 - Criteria
 	+ Smart, resourceful, and willing to learn.
+	+ Utmost respect for your and others’ time. Be punctual.
 	+ Believes that it is always `figureoutable` and can Get Things Done.
 	+ Computer and Internet savvy, without necessarily being technical.
 	+ Comfortable with the Apple eco-system and have used the macOS desktop system for two or more years in recent years.

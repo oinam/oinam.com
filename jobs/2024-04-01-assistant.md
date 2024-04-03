@@ -15,6 +15,7 @@ Apply: [Email](mailto:jobs@oinam.com?subject=Assistant) a cover letter with your
 	+ Work with other service providers to make sure things are on time and working seamlessly.
 - Criteria
 	+ Smart, resourceful, and willing to learn.
+	+ Utmost respect for your and others’ time. Be punctual.
 	+ Believes that it is always `figureoutable` and can Get Things Done.
 	+ Computer and Internet savvy, without necessarily being technical.
 	+ Comfortable with the Apple eco-system and have used the macOS desktop system for two or more years in recent years.
