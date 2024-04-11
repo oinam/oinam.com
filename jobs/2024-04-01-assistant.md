@@ -1,6 +1,6 @@
 # Assistant
 
-Status: `Open`\
+Status: `Closed`\
 Type: `Part-Time`\
 Apply: [Email](mailto:jobs@oinam.com?subject=Assistant) a cover letter with your experience and details.
 
