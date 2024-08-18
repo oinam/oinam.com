@@ -1,5 +1,8 @@
 title: Oinam
-description: ''
+description: 'Taking care of kids and women. Save the planet, curb climate change. Progress exponentially.'
+
+url: 'https://oinam.com'
+baseurl: ''
 
 remote_theme: oinam/oinam-jekyll
 

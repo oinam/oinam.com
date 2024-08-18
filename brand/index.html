@@ -4,135 +4,360 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Color Palette of the Oinam Family.">
-<title>Oinam Color Palette</title>
+<title>Oinam - Color Palette</title>
 
 <style>
   html {
-    background: #fff;
+    height: 100%;
   }
   body {
-    margin: auto;
+    margin: 0;
     width: 100%;
+    height: 100%;
     
     font-family: system-ui, -apple-system, 'Segoe UI', 'Roboto', Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     font-size: 18px;
     font-weight: 100;
-    line-height: 1.6;
+    line-height: 1.618034;
 
-    color: #0a0a0a;
+    background-color: #fff;
+    color: #e5e5e5;
   }
   a {
-    color: #a3a3a3;
-    text-decoration: none;
-    border-bottom: 1px solid #a3a3a3;
-    padding-bottom: 0.16rem;
+    color: #0a0a0a;
+    text-decoration-thickness: 0.06rem;
+    text-underline-offset: 0.1618034rem;
   }
 
-  section {
-    display: flex;
+  main {
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    gap: 0 0;
   }
+
+  section {}
+
   article {
-    flex-grow: 5;
-    flex-basis: 20%;
-    padding: 1rem 1.6rem;
+    padding: 0.5rem 1rem;
   }
-  article h2 {
-    margin: 0;
-    padding: 0 0 7rem;
+
+  h2 {
+    margin: 0 0 1rem 0;
+    padding: 0;
+    font-size: 1.618034rem;
     font-weight: 100;
   }
-  article p {
-    display: block;
+
+  ul {
+    list-style: none;
     margin: 0;
     padding: 0;
-    font-family: Menlo, Consolas, Monaco, 'Liberation Mono', 'Lucida Console', monospace;
   }
-  footer {
-    padding: 0 1rem;
+
+  li {
+    font-family: Menlo, Consolas, Monaco, 'Liberation Mono', 'Lucida Console', monospace;
     font-size: smaller;
   }
 
-  .pallette-gray {
-    flex-grow: 10;
-    flex-basis: 10%;
-  }
-  .pallette-gray article {
-    text-transform: lowercase;
-    font-size: 0.5rem;
-  }
+  .color-dark   { color: #404040; }
+  .color-light  { color: #fafafa; }
 </style>
 
 </head>
 
 <body>
 
-  <section class="pallette-primary" style="color: #f3f4f6;">
-    <article style="background-color: #0a0a0a">
-      <h2>Midnight</h2>
-      <p>#0a0a0a <br> rgb(10,10,10)</p>
-    </article>
-    <article style="background-color: #0f2021">
-      <h2>Primary</h2>
-      <p>#0f2021 <br> rgb(15,32,33)</p>
-    </article>
-    <article style="background-color: #0f3538">
-      <h2>Secondary</h2>
-      <p>#0f3538 <br> rgb(15,53,56)</p>
-    </article>
-    <article style="background-color: #6366f1">
-      <h2>Tertiary</h2>
-      <p>#6366f1 <br> rgb(99,102,241)</p>
-    </article>
-    <article style="background-color: #7c3aed">
-      <h2>Quaternary</h2>
-      <p>#7c3aed <br> rgb(124,58,237)</p>
-    </article>
-  </section>
+  <main>
 
-  <section class="pallette-accent" style="color: #374151;">
-    <article style="background-color: #ff6600">
-      <h2>Primary Accent</h2>
-      <p>#ff6600 <br> rgb(255,102,0)</p>
-    </article>
-    <article style="background-color: #ff9200">
-      <h2>Secondary Accent</h2>
-      <p>#ff9200 <br> rgb(255,146,0)</p>
-    </article>
-    <article style="background-color: #ffbe00">
-      <h2>Shine</h2>
-      <p>#ffbe00 <br> rgb(255,190,0)</p>
-    </article>
-    <article style="background-color: #f8e08e">
-      <h2>Gleam</h2>
-      <p>#f8e08e <br> rgb(248,224,142)</p>
-    </article>
-    <article style="background-color: #fafaf0">
-      <h2>Bright</h2>
-      <p>#fafaf0 <br> rgb(250,250,240)</p>
-    </article>
-  </section>
+    <section id="pallette-primary" style="">
+      <article style="background-color: #1d387c">
+        <h2>Primary (Blue)</h2>
+        <ul>
+          <li>#1d387c</li>
+          <li>hsl(223deg 62% 30%)</li>
+          <li>rgb(29 56 124)</li>
+          <li>oklch(36% 30% 265deg)</li>
+          <li>lch(25% 29% 283deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #0e2532">
+        <h2>Secondary (Midnight)</h2>
+        <ul>
+          <li>#0e2532</li>
+          <li>hsl(202deg 56% 13%)</li>
+          <li>rgb(14 37 50)</li>
+          <li>oklch(25% 9% 236deg)</li>
+          <li>lch(13% 9% 244deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #7c3aed">
+        <h2>Tertiary</h2>
+        <ul>
+          <li>#7c3aed</li>
+          <li>hsl(262deg 83% 58%)</li>
+          <li>rgb(124,58,237)</li>
+          <li>oklch(54% 62% 293deg)</li>
+          <li>lch(42% 66% 305deg)</li>
+        </ul>
+      </article>
+    </section>
 
-  <section class="pallette-gray" style="color: #374151;">
-    <article style="color: #e5e5e5; background-color: #0a0a0a"><h2>Gray-1000</h2><p>#0a0a0a</p></article>
-    <article style="color: #e5e5e5; background-color: #101010"><h2>Gray-900 </h2><p>#101010</p></article>
-    <article style="color: #e5e5e5; background-color: #171717"><h2>Gray-800 </h2><p>#171717</p></article>
-    <article style="color: #e5e5e5; background-color: #262626"><h2>Gray-700 </h2><p>#262626</p></article>
-    <article style="color: #e5e5e5; background-color: #404040"><h2>Gray-600 </h2><p>#404040</p></article>
-    <article style="color: #e5e5e5; background-color: #606060"><h2>Gray-500 </h2><p>#606060</p></article>
-    
-    <article style="background-color: #a0a0a0"><h2>Gray-400</h2><p>#a0a0a0</p></article>
-    <article style="background-color: #d5d5d5"><h2>Gray-300</h2><p>#d5d5d5</p></article>
-    <article style="background-color: #e5e5e5"><h2>Gray-200</h2><p>#e5e5e5</p></article>
-    <article style="background-color: #f0f0f0"><h2>Gray-100</h2><p>#f0f0f0</p></article>
-    <article style="background-color: #f5f5f5"><h2>Gray-50 </h2><p>#f5f5f5</p></article>
-    <article style="background-color: #fafafa"><h2>Gray-0  </h2><p>#fafafa</p></article>
-  </section>
+    <section id="pallette-secondary" style="">
+      <article style="background-color: #ff6600">
+        <h2>Primary Accent</h2>
+        <ul>
+          <li>#ff6600</li>
+          <li>hsl(24deg 100% 50%)</li>
+          <li>rgb(255 102 0)</li>
+          <li>oklch(70% 51% 43deg)</li>
+          <li>lch(63% 62% 52deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #ff9200">
+        <h2>Secondary Accent</h2>
+        <ul>
+          <li>#ff9200</li>
+          <li>hsl(34deg 100% 50%)</li>
+          <li>rgb(255 146 0)</li>
+          <li>oklch(76% 44% 61deg)</li>
+          <li>lch(71% 57% 64deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #ffbe00">
+        <h2>Tertiary Accent</h2>
+        <ul>
+          <li>#ffbe00</li>
+          <li>hsl(45deg 100% 50%)</li>
+          <li>rgb(255 190 0)</li>
+          <li>oklch(84% 43% 84deg)</li>
+          <li>lch(81% 56% 80deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #0a0a0a">
+        <h2>Dark</h2>
+        <ul>
+          <li>#0a0a0a</li>
+          <li>hsl(0deg 0% 4%)</li>
+          <li>rgb(10 10 10)</li>
+          <li>oklch(14% 0% 90deg)</li>
+          <li>lch(3% 0% 157deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #fafafa" class="color-dark">
+        <h2>Bright</h2>
+        <ul>
+          <li>#fafafa</li>
+          <li>hsl(0deg 0% 98%)</li>
+          <li>rgb(250 250 250)</li>
+          <li>oklch(99% 0% 90deg)</li>
+          <li>lch(98% 0% 157deg)</li>
+        </ul>
+      </article>
+    </section>
 
-  <footer>
-    <p>
-      TailwindCSS has the <a href="https://tailwindcss.com/docs/customizing-colors">best color-grays</a>, use them.
-    </p>
-  </footer>
+    <section id="pallette-blue" style="">
+      <div class="color-dark">
+      <article style="background-color: #c4dde4">
+        <h2>Icicle</h2>
+        <ul>
+          <li>#c4dde4</li>
+          <li>hsl(193deg 37% 83%)</li>
+          <li>rgb(196 221 228)</li>
+          <li>oklch(88% 7% 216deg)</li>
+          <li>lch(86% 7% 220deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #b6cdea">
+        <h2>Sky</h2>
+        <ul>
+          <li>#b6cdea</li>
+          <li>hsl(213deg 55% 82%)</li>
+          <li>rgb(182 205 234)</li>
+          <li>oklch(84% 12% 254deg)</li>
+          <li>lch(81% 12% 259deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #84b8d9">
+        <h2>Cornflower</h2>
+        <ul>
+          <li>#84b8d9</li>
+          <li>hsl(203deg 53% 68%)</li>
+          <li>rgb(132 184 217)</li>
+          <li>oklch(76% 18% 237deg)</li>
+          <li>lch(72% 17% 243deg)</li>
+        </ul>
+      </article>
+      </div> 
+
+      <article style="background-color: #5685b7">
+        <h2>Pool</h2>
+        <ul>
+          <li>#5685b7</li>
+          <li>hsl(211deg 40% 53%)</li>
+          <li>rgb(86 133 183)</li>
+          <li>oklch(60% 23% 251deg)</li>
+          <li>lch(54% 21% 260deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #3465a7">
+        <h2>Chagall</h2>
+        <ul>
+          <li>#3465a7</li>
+          <li>hsl(214deg 53% 43%)</li>
+          <li>rgb(52 101 167)</li>
+          <li>oklch(51% 30% 257deg)</li>
+          <li>lch(42% 27% 270deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #244f81">
+        <h2>Marine</h2>
+        <ul>
+          <li>#244f81</li>
+          <li>hsl(212deg 56% 32%)</li>
+          <li>rgb(36 79 129)</li>
+          <li>oklch(42% 24% 254deg)</li>
+          <li>lch(33% 22% 268deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #003658">
+        <h2>Magpie</h2>
+        <ul>
+          <li>#003658</li>
+          <li>hsl(203deg 100% 17%)</li>
+          <li>rgb(0 54 88)</li>
+          <li>oklch(32% 20% 244deg)</li>
+          <li>lch(21% 17% 258deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #1d387c">
+        <h2>Blue</h2>
+        <ul>
+          <li>#1d387c</li>
+          <li>hsl(223deg 62% 30%)</li>
+          <li>rgb(29 56 124)</li>
+          <li>oklch(36% 30% 265deg)</li>
+          <li>lch(25% 29% 283deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #111f46">
+        <h2>Oxford Blue</h2>
+        <ul>
+          <li>#111f46</li>
+          <li>hsl(224deg 61% 17%)</li>
+          <li>rgb(17 31 70)</li>
+          <li>oklch(25% 19% 266deg)</li>
+          <li>lch(12% 18% 283deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #0e2532">
+        <h2>Midnight</h2>
+        <ul>
+          <li>#0e2532</li>
+          <li>hsl(202deg 56% 13%)</li>
+          <li>rgb(14 37 50)</li>
+          <li>oklch(25% 9% 236deg)</li>
+          <li>lch(13% 9% 244deg)</li>
+        </ul>
+      </article>
+    </section>
+
+    <section id="pallette-gray">
+      <div class="color-dark">
+      <article style="background-color: #f0f0f0">
+        <h2>Gray-100</h2>
+        <ul>
+          <li>#f0f0f0</li>
+          <li>hsl(0deg 0% 94%)</li>
+          <li>rgb(240 240 240)</li>
+          <li>oklch(96% 0% 90deg)</li>
+          <li>lch(95% 0% 157deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #e5e5e5">
+        <h2>Gray-200</h2>
+        <ul>
+          <li>#e5e5e5</li>
+          <li>hsl(0deg 0% 90%)</li>
+          <li>rgb(229 229 229)</li>
+          <li>oklch(92% 0% 90deg)</li>
+          <li>lch(91% 0% 157deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #d5d5d5">
+        <h2>Gray-300</h2>
+        <ul>
+          <li>#d5d5d5</li>
+          <li>hsl(0deg 0% 84%)</li>
+          <li>rgb(213 213 213)</li>
+          <li>oklch(87% 0% 90deg)</li>
+          <li>lch(85% 0% 157deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #a0a0a0">
+        <h2>Gray-400</h2>
+        <ul>
+          <li>#a0a0a0</li>
+          <li>hsl(0deg 0% 63%)</li>
+          <li>rgb(160 160 160)</li>
+          <li>oklch(71% 0% 90deg)</li>
+          <li>lch(66% 0% 157deg)</li>
+        </ul>
+      </article>
+      </div>
+
+      <article style="background-color: #606060">
+        <h2>Gray-500</h2>
+        <ul>
+          <li>#606060</li>
+          <li>hsl(0deg 0% 38%)</li>
+          <li>rgb(96 96 96)</li>
+          <li>oklch(49% 0% 90deg)</li>
+          <li>lch(41% 0% 157deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #404040">
+        <h2>Gray-600</h2>
+        <ul>
+          <li>#404040</li>
+          <li>hsl(0deg 0% 25%)</li>
+          <li>rgb(64 64 64)</li>
+          <li>oklch(37% 0% 90deg)</li>
+          <li>lch(27% 0% 157deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #262626">
+        <h2>Gray-700</h2>
+        <ul>
+          <li>#262626</li>
+          <li>hsl(0deg 0% 15%)</li>
+          <li>rgb(38 38 38)</li>
+          <li>oklch(27% 0% 90deg)</li>
+          <li>lch(15% 0% 157deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #171717">
+        <h2>Gray-800</h2>
+        <ul>
+          <li>#171717</li>
+          <li>hsl(0deg 0% 9%)</li>
+          <li>rgb(23 23 23)</li>
+          <li>oklch(20% 0% 90deg)</li>
+          <li>lch(8% 0% 157deg)</li>
+        </ul>
+      </article>
+      <article style="background-color: #101010">
+        <h2>Gray-900</h2>
+        <ul>
+          <li>#101010</li>
+          <li>hsl(0deg 0% 6%)</li>
+          <li>rgb(16 16 16)</li>
+          <li>oklch(17% 0% 90deg)</li>
+          <li>lch(5% 0% 157deg)</li>
+        </ul>
+      </article>
+    </section>
+  
+  </main>
 
 </body>
 </html>
