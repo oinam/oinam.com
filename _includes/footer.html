@@ -1,21 +1,10 @@
-<footer class="footer">
-	<nav>
-    <a href="{{ site.baseurl | prepend: site.url }}/">Home</a>
-    {% for menu in site.data.nav -%}
-      <a href="{{ site.baseurl | prepend: site.url }}{{ menu.url }}">{{ menu.title }}</a>
-    {% endfor -%}
-  </nav>
-  <div class="footer__credit">
-    <div>
-      <p>
-        <small>
-          2003-<span id="year"></span>
-          oinam.com
-        </small>
-      </p>
-    </div>
-    {% include appearance.html %}
-  </div>  
+<footer>
+	<p>
+	  <small>
+	    2003-<span id="year"></span>
+	    oinam.com
+	  </small>
+	</p>
 </footer>
 
 <script type="text/javascript">
