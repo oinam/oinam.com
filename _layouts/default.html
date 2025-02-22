@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>
+  {%- if title -%}{{ title }}
+  {%- elsif page.title -%}{{ page.title }}
+  {%- else -%}{{ site.title }}
+  {%- endif -%}
+</title>
+
+<meta name="description" content="Taking care of kids and women. Save the planet, curb climate change. Progress exponentially.">
+
+<link rel="stylesheet" href="https://assets.oinam.com/styles/simple.min.css">
+
+</head>
+<body>
+
+{% include header.html %}
+{{ content }}
+{% include footer.html %}
+
+</body>
+</html>
