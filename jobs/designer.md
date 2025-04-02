@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: page
 ---
 
 # Designer
 
 | Status | `Open` |
-| Type | `Full-Time` |
-| Date Posted | Apr 1, 2025 |
+| Type | `Full-Time in Bangalore, India` |
+| Posted | Apr 1, 2025 |
 | Apply | [Email](mailto:jobs@oinam.com?subject=Designer) a cover letter with link/attachment to your portfolio |
 
 I’m helping a few friends’ companies to hire some fantastic **Designers**.
