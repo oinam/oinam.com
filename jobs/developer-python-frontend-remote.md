@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Python + Frontend
 
 Status: `Closed`\
@@ -6,7 +10,7 @@ Date Posted: Oct 13, 2022
 
 ---
 
-A developer with knowledge of Object-oriented programming, separation of concerns, code readability, and a solid knowledge of data structures are preferred and most important requirements.
+A developer with knowledge of Object-oriented and/or functional programming, separation of concerns, code readability, and a solid knowledge of data structures are preferred and most important requirements.
 
 - Choice of programming language: Python.
 - Salary: Roughly in the range of €600 to €800 (monthly).
