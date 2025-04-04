@@ -4,9 +4,10 @@ layout: default
 
 # Generalist - Technology Tinkerer
 
-Status: Open\
-Type: Part-Time\
-Apply: [Email](mailto:jobs@oinam.com?subject=Technology&nbsp;Generalist)
+| Status | `Open` |
+| Type | `Part-Time`, `Remote` |
+| Posted | Jan 1, 2025 |
+| Apply | [Email](mailto:jobs@oinam.com?subject=Technology&nbsp;Generalist) |
 
 An Internet technology tinkerer and generalist who believes in finding solutions while on the job. Someone who can read documentation, roam the internet, ask questions, talk to AI assistants, and figure things out.
 
