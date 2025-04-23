@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: page
 ---
+
+# Jobs
 
 These jobs are not necessarily all at Oinam or its related entities. Many of the jobs are for friends and their companies. We have decided to have it here for the ones we can help.
 
-[Email jobs@oinam.com](mailto:jobs@oinam.com)
+Email [jobs@oinam.com](mailto:jobs@oinam.com)
 
 ## Oinam
 
