@@ -1,7 +1,8 @@
 <footer>
 	<p>
 		<small>
-	    2003-<span id="year"></span>
+	    2003-<span id="year_current"></span>
+			(<span id="year_since"></span>)
 	    oinam.com
 	    |
 	    <a href="/contact/">Contact</a>
@@ -9,6 +10,39 @@
 	</p>
 </footer>
 
-<script type="text/javascript">
-  document.getElementById("year").innerHTML = new Date().getFullYear();
+<script>
+  // Current Year
+  document.getElementById("year_current").innerHTML = new Date().getFullYear();
+
+  // Calculate Year-Since.
+  // Hard-coded start year and month
+  // brajeshwwar.com started on Jul 13, 2003.
+  const startYear = 2003;
+  const startMonth = 7; // July
+
+  function getElapsedYearsAndMonths(startYear, startMonth) {
+    const now = new Date();
+    let years = now.getFullYear() - startYear;
+    let months = now.getMonth() - (startMonth - 1);
+
+    if (months < 0) {
+      years -= 1;
+      months += 12;
+    }
+
+    return { years, months };
+  }
+
+  function pluralize(count, singular, plural) {
+    return count === 1 ? singular : plural;
+  }
+
+  // Calculate and display "year_since"
+  const elapsed = getElapsedYearsAndMonths(startYear, startMonth);
+  let resultText = `${elapsed.years} Years`;
+
+  if (elapsed.months > 0) {
+    resultText += `, ${elapsed.months} ${pluralize(elapsed.months, 'Month', 'Months')}`;
+  }
+  document.getElementById('year_since').textContent = resultText;
 </script>
