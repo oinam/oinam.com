@@ -10,7 +10,8 @@ Email [jobs@oinam.com](mailto:jobs@oinam.com)
 
 ## Oinam
 
-- [Generalist](/jobs/generalist/) (open, part-time) posted/edited on Jan 1, 2025
+- [Assistant](/jobs/assistant/) (open, part-time) posted/edited on Jan 1, 2025
+- [Technology Generalist](/jobs/generalist/) (open, part-time) posted/edited on Jan 1, 2025
 
 ### Elsewhere
 
