@@ -5,13 +5,13 @@ layout: default
 # Family Liaison (India)
 
 Status: Open  
-Type: Full-Time  
+Type: Part-Time  
 Apply: [Email](mailto:jobs@oinam.com?subject=Family&nbsp;Liasion) a cover letter with your experience and details.
 
 ## How
 
 - Remote. Work from Anywhere.
-- Starts at ₹5,00,000 per year Net Salary.
+- Starts at ₹3,60,000 per year Net Salary.
 
 ## Roles
 
