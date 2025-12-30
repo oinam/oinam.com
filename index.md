@@ -3,7 +3,18 @@ layout: default
 ---
 
 - [Notes](https://notes.oinam.com) is a digital garden of tit-bits, wiki-ish, data, learnings, and observations.
+- [Stories](https://story.oinam.com) about kids, parenting, and fun things at Oinam.
+- [Blog](https://blog.oinam.com) (lost the original, need to bring the blog back)
 - [brajeshwar.com](https://brajeshwar.com) is the personal website of Brajeshwar Oinam.
+- Pictures (public) (coming soon)
+- [Flickr Photos](https://flickr.com/photos/brajeshwar/) by Brajeshwar (un-used since 2015)
+- Random
+  - [Start](https://start.oinam.com)
+  - [Void](https://void.oinam.com) › Do Nothing. Stay Quiet. Just Be Here.
+  - [Pop the Bubbles from the Wrap](https://bubble-pop.oinam.com)
+  - [MS Paint Replica](https://paint.oinam.com)
+  - [Defrag](https://defrag.oinam.com) your mind’s drive.
+  - [Plain Text Table](https://table.oinam.com) for MarkDown.
 - Connect
   - [Twitter](https://x.com/oinam)
   - [Instagram](https://www.instagram.com/oinam)
