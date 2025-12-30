@@ -1,9 +1,6 @@
 title: Oinam
-email: oinam@oinam.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Save the planet, curb climate change. Progress exponentially.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://oinam.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://oinam.com"
 
 permalink: pretty
 permalink: /:title/
@@ -12,16 +9,7 @@ sass:
   style: compressed
   sourcemap: never
 
-optional_front_matter:
-  remove_originals: true
-
-titles_from_headings:
-  enabled: true
-  strip_title: true
-  collections: true
-
 exclude:
-  - .obsidian
   - Gemfile
   - Gemfile.lock
   - gemfiles/

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 # LLM-Assisted Coder (Front-End)

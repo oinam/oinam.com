@@ -1,0 +1,71 @@
+:root {
+	font-size: 16px;
+
+	/* COLOR */
+	--color-primary: oklch(51% 30% 257deg);
+	--color-secondary: oklch(25% 9% 236deg);
+	--color-primary-accent: oklch(70% 51% 43deg);
+	--color-secondary-accent: oklch(76% 44% 61deg);
+
+	--color-dark: oklch(14% 0% 90deg);
+	--color-light: oklch(99% 0% 90deg);
+
+	--color-gray-100: oklch(96% 0% 90deg);
+	--color-gray-200: oklch(92% 0% 90deg);
+	--color-gray-300: oklch(87% 0% 90deg);
+	--color-gray-400: oklch(71% 0% 90deg);
+	--color-gray-500: oklch(49% 0% 90deg);
+	--color-gray-700: oklch(27% 0% 90deg);
+	--color-gray-900: oklch(17% 0% 90deg);
+
+	--border-radius: 7px;
+}
+
+body {
+	width: 96%;
+	max-width: 800px;
+
+	padding: 0;
+	margin: 1rem auto;
+
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;;
+	font-size: 1rem;
+	line-height: 1.618034;
+}
+
+a, a:visited {
+	color: var(--color-primary);
+	
+	text-decoration: none;
+	text-decoration-thickness: 0.8px;
+  text-underline-offset: 0.3rem;
+}
+
+a:hover, a:active {
+	color: var(--color-secondary);
+	text-decoration: underline;
+}
+
+blockquote {
+	margin: 1rem auto;
+	padding: 1rem;
+	
+	background: var(--color-gray-100);
+	border-radius: var(--border-radius);
+}
+
+header {
+	border-bottom: 1px solid var(--color-gray-300);
+}
+
+nav {
+	margin: 1rem auto;
+}
+
+nav a {
+	padding: 0.5rem;
+}
+
+footer {
+	border-top: 1px solid var(--color-gray-300);
+}

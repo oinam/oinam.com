@@ -1,9 +1,7 @@
 .jekyll-cache
 .jekyll-metadata
-.obsidian
 .sass-cache
 _site
-vendor
 
 # Ignore OS generated files #
 .DS_Store*

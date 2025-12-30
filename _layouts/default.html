@@ -13,7 +13,11 @@
 
 <meta name="description" content="Taking care of kids and women. Save the planet, curb climate change. Progress exponentially.">
 
-<link rel="stylesheet" href="https://assets.oinam.com/styles/simple.min.css">
+<style type="text/css">
+{% capture include_to_scssify %}{% include styles.css %}{% endcapture %}
+{{- include_to_scssify | scssify | strip_newlines -}}
+</style>
+
 <script defer src="https://analytics.oinam.net/script.js" data-website-id="2b8dbaa4-d51f-4d23-b9c4-4d8003807df4"></script>
 
 </head>
