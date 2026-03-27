@@ -2,19 +2,19 @@
 layout: default
 ---
 
-# Generalist - Technology Tinkerer
+# Technology Generalist
 
 | Status | `Open` |
 | Type | `Part-Time`, `Remote` |
-| Posted | Jan 1, 2025 |
+| Edit | Jan 1, 2026 |
 | Apply | [Email](mailto:jobs@oinam.com?subject=[Jobs]&nbsp;Technology&nbsp;Generalist) |
 
-An Internet technology tinkerer and generalist who believes in finding solutions while on the job. Someone who can read documentation, roam the internet, ask questions, talk to AI assistants, and figure things out.
+A technology generalist who believes in finding solutions while on the job. Someone who can read documentation, roam the internet, ask questions, talk to AI assistants, and figure things out.
 
 ## How
 
 - Remote — work from anywhere.
-- Pay as you go. Part-time. It depends.
+- Part-time. Monthly. ₹6,00,000 /year.
 
 ## Roles
 
@@ -30,4 +30,4 @@ An Internet technology tinkerer and generalist who believes in finding solutions
 ## Plus
 
 - Express well in writing.
-- Appreciate a well-written beautiful documentation.
+- Appreciate well-written documentation.
