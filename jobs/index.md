@@ -4,16 +4,8 @@ layout: default
 
 # Jobs
 
-These jobs are not necessarily all at Oinam or its related entities. Many of the jobs are for friends and their companies. We have decided to have it here for the ones we can help.
-
 Email [jobs@oinam.com](mailto:jobs@oinam.com)
 
-## Oinam
-
+- [Generalist](/jobs/generalist/) (open, part-time) posted/edited on Jan 1, 2026
 - [Assistant](/jobs/assistant/) (open, part-time) posted/edited on Jan 1, 2025
-- [Technology Generalist](/jobs/generalist/) (open, part-time) posted/edited on Jan 1, 2026
-- [Family Liaison](/jobs/family-liaison/) (open, part-time) posted/edited on Jan 1, 2025
-
-### Elsewhere
-
-- [LLM-Assisted Coder (Front-End)](/jobs/llm-assisted-coder-front-end/) (open, part-time) posted/edited on Sep 15, 2025
+- [Family Liaison](/jobs/family-liaison/) (open, part-time) posted/edited on Jan 1, 2026
