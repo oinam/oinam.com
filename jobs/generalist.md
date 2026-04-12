@@ -2,19 +2,19 @@
 layout: default
 ---
 
-# Technology Generalist
+# Generalist
 
 | Status | `Open` |
 | Type | `Part-Time`, `Remote` |
 | Edit | Jan 1, 2026 |
-| Apply | [Email](mailto:jobs@oinam.com?subject=[Jobs]&nbsp;Technology&nbsp;Generalist) |
+| Apply | [Email](mailto:jobs@oinam.com?subject=[Jobs]&nbsp;Generalist) |
 
 A technology generalist who believes in finding solutions while on the job. Someone who can read documentation, roam the internet, ask questions, talk to AI assistants, and figure things out.
 
 ## How
 
-- Remote — work from anywhere.
-- Part-time. Monthly. ₹6,00,000 /year.
+- Remote. Work from Anywhere.
+- Part-time. Starting ₹5,00,000 /year.
 
 ## Roles
 
