@@ -6,7 +6,7 @@ layout: default
 - [Stories](https://story.oinam.com) about kids, parenting, and fun things at Oinam.
 - [Blog](https://blog.oinam.com) (lost the original, need to bring the blog back)
 - [brajeshwar.com](https://brajeshwar.com) is the personal website of Brajeshwar Oinam.
-- Pictures (public) (coming soon)
+- [Albums](https://albums.oinam.com/) › public pictures, videos, and audio.
 - [Flickr Photos](https://flickr.com/photos/brajeshwar/) by Brajeshwar (un-used since 2015)
 - Random
   - [Start](https://start.oinam.com)
